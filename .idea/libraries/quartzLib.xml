@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="quartzLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../quartz-2.3.0-SNAPSHOT/lib/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../quartz-2.3.0-SNAPSHOT/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../quartz-2.3.0-SNAPSHOT/lib/quartz-2.3.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../quartz-2.3.0-SNAPSHOT/lib/quartz-jobs-2.3.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../quartz-2.3.0-SNAPSHOT/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../quartz-2.3.0-SNAPSHOT/lib/slf4j-log4j12-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../quartz-2.3.0-SNAPSHOT/lib/c3p0-0.9.5.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/distribution/examples/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/management-quartz-impl/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/management-quartz/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-commonj/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-jboss/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-jobs/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-jobs/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-oracle/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-plugins/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-plugins/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-stubs/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz-weblogic/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/quartz/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/system-tests/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../quartz-master/terracotta/bootstrap/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

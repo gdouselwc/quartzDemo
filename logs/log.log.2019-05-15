@@ -1,0 +1,297 @@
+2019-05-15 20:30:20  [ main:0 ] - [ INFO ]  Initializing....
+2019-05-15 20:30:20  [ main:77 ] - [ INFO ]  Using default implementation for ThreadExecutor
+2019-05-15 20:30:20  [ main:84 ] - [ INFO ]  Job execution threads will use class loader of thread: main
+2019-05-15 20:30:20  [ main:96 ] - [ INFO ]  Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-05-15 20:30:20  [ main:96 ] - [ INFO ]  Quartz Scheduler v.2.3.0-SNAPSHOT created.
+2019-05-15 20:30:20  [ main:97 ] - [ INFO ]  RAMJobStore initialized.
+2019-05-15 20:30:20  [ main:98 ] - [ INFO ]  Scheduler meta-data: Quartz Scheduler (v2.3.0-SNAPSHOT) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-05-15 20:30:20  [ main:99 ] - [ INFO ]  Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2019-05-15 20:30:20  [ main:99 ] - [ INFO ]  Quartz scheduler version: 2.3.0-SNAPSHOT
+2019-05-15 20:30:20  [ main:100 ] - [ INFO ]  Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2019-05-15 20:30:20  [ DefaultQuartzScheduler_QuartzSchedulerThread:100 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:32:09  [ main:0 ] - [ INFO ]  Initializing....
+2019-05-15 20:32:10  [ main:72 ] - [ INFO ]  Using default implementation for ThreadExecutor
+2019-05-15 20:32:10  [ main:77 ] - [ INFO ]  Job execution threads will use class loader of thread: main
+2019-05-15 20:32:10  [ main:92 ] - [ INFO ]  Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-05-15 20:32:10  [ main:93 ] - [ INFO ]  Quartz Scheduler v.2.3.0-SNAPSHOT created.
+2019-05-15 20:32:10  [ main:94 ] - [ INFO ]  RAMJobStore initialized.
+2019-05-15 20:32:10  [ main:99 ] - [ INFO ]  Scheduler meta-data: Quartz Scheduler (v2.3.0-SNAPSHOT) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-05-15 20:32:10  [ main:99 ] - [ INFO ]  Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2019-05-15 20:32:10  [ main:99 ] - [ INFO ]  Quartz scheduler version: 2.3.0-SNAPSHOT
+2019-05-15 20:32:10  [ main:101 ] - [ INFO ]  Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2019-05-15 20:32:10  [ DefaultQuartzScheduler_QuartzSchedulerThread:101 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:32:38  [ DefaultQuartzScheduler_QuartzSchedulerThread:28795 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:33:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:50021 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:33:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:50029 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:33:00  [ DefaultQuartzScheduler_Worker-1:50031 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:33:00  [ DefaultQuartzScheduler_Worker-1:50042 ] - [ INFO ]  Wed May 15 20:33:00 CST 2019Call myJob
+2019-05-15 20:33:24  [ DefaultQuartzScheduler_QuartzSchedulerThread:74801 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:33:54  [ DefaultQuartzScheduler_QuartzSchedulerThread:104080 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:34:22  [ DefaultQuartzScheduler_QuartzSchedulerThread:132416 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:40:14  [ main:0 ] - [ INFO ]  Initializing....
+2019-05-15 20:40:14  [ main:71 ] - [ INFO ]  Using default implementation for ThreadExecutor
+2019-05-15 20:40:14  [ main:77 ] - [ INFO ]  Job execution threads will use class loader of thread: main
+2019-05-15 20:40:14  [ main:94 ] - [ INFO ]  Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-05-15 20:40:14  [ main:94 ] - [ INFO ]  Quartz Scheduler v.2.3.0-SNAPSHOT created.
+2019-05-15 20:40:14  [ main:95 ] - [ INFO ]  RAMJobStore initialized.
+2019-05-15 20:40:14  [ main:96 ] - [ INFO ]  Scheduler meta-data: Quartz Scheduler (v2.3.0-SNAPSHOT) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-05-15 20:40:14  [ main:96 ] - [ INFO ]  Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2019-05-15 20:40:14  [ main:96 ] - [ INFO ]  Quartz scheduler version: 2.3.0-SNAPSHOT
+2019-05-15 20:40:14  [ main:100 ] - [ INFO ]  Wed May 15 20:40:14 CST 2019 调度开始...
+2019-05-15 20:40:14  [ main:100 ] - [ INFO ]  Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2019-05-15 20:40:14  [ DefaultQuartzScheduler_QuartzSchedulerThread:100 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:40:40  [ DefaultQuartzScheduler_QuartzSchedulerThread:26140 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:41:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:45575 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:41:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:45583 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:41:00  [ DefaultQuartzScheduler_Worker-1:45584 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:41:00  [ DefaultQuartzScheduler_Worker-1:45590 ] - [ INFO ]  Wed May 15 20:41:00 CST 2019 Call myJob
+2019-05-15 20:41:25  [ DefaultQuartzScheduler_QuartzSchedulerThread:71157 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:41:52  [ DefaultQuartzScheduler_QuartzSchedulerThread:98126 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:42:18  [ DefaultQuartzScheduler_QuartzSchedulerThread:123662 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:42:47  [ DefaultQuartzScheduler_QuartzSchedulerThread:152628 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:43:14  [ DefaultQuartzScheduler_QuartzSchedulerThread:179901 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:43:42  [ DefaultQuartzScheduler_QuartzSchedulerThread:208259 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:44:07  [ DefaultQuartzScheduler_QuartzSchedulerThread:233251 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:44:34  [ DefaultQuartzScheduler_QuartzSchedulerThread:259829 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:45:02  [ DefaultQuartzScheduler_QuartzSchedulerThread:287799 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:45:31  [ DefaultQuartzScheduler_QuartzSchedulerThread:316869 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:45:59  [ DefaultQuartzScheduler_QuartzSchedulerThread:344839 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:46:23  [ DefaultQuartzScheduler_QuartzSchedulerThread:369288 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:46:52  [ DefaultQuartzScheduler_QuartzSchedulerThread:397684 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:47:34  [ main:0 ] - [ INFO ]  Initializing....
+2019-05-15 20:47:34  [ main:68 ] - [ INFO ]  Using default implementation for ThreadExecutor
+2019-05-15 20:47:34  [ main:73 ] - [ INFO ]  Job execution threads will use class loader of thread: main
+2019-05-15 20:47:34  [ main:89 ] - [ INFO ]  Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-05-15 20:47:34  [ main:90 ] - [ INFO ]  Quartz Scheduler v.2.3.0-SNAPSHOT created.
+2019-05-15 20:47:34  [ main:91 ] - [ INFO ]  RAMJobStore initialized.
+2019-05-15 20:47:34  [ main:95 ] - [ INFO ]  Scheduler meta-data: Quartz Scheduler (v2.3.0-SNAPSHOT) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-05-15 20:47:34  [ main:95 ] - [ INFO ]  Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2019-05-15 20:47:34  [ main:95 ] - [ INFO ]  Quartz scheduler version: 2.3.0-SNAPSHOT
+2019-05-15 20:47:34  [ main:99 ] - [ INFO ]  Wed May 15 20:47:34 CST 2019 调度开始...
+2019-05-15 20:47:34  [ main:99 ] - [ INFO ]  Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2019-05-15 20:47:34  [ DefaultQuartzScheduler_QuartzSchedulerThread:100 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:48:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:25895 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:48:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:25903 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:48:00  [ DefaultQuartzScheduler_Worker-1:25904 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:48:00  [ DefaultQuartzScheduler_Worker-1:25906 ] - [ INFO ]  Wed May 15 20:48:00 CST 2019 Call myJob
+2019-05-15 20:48:01  [ DefaultQuartzScheduler_QuartzSchedulerThread:26886 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:48:01  [ DefaultQuartzScheduler_QuartzSchedulerThread:26888 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:48:01  [ DefaultQuartzScheduler_Worker-2:26888 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:48:01  [ DefaultQuartzScheduler_Worker-2:26890 ] - [ INFO ]  Wed May 15 20:48:01 CST 2019 Call myJob
+2019-05-15 20:48:02  [ DefaultQuartzScheduler_QuartzSchedulerThread:27886 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:48:02  [ DefaultQuartzScheduler_QuartzSchedulerThread:27888 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:48:02  [ DefaultQuartzScheduler_Worker-3:27888 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:48:02  [ DefaultQuartzScheduler_Worker-3:27890 ] - [ INFO ]  Wed May 15 20:48:02 CST 2019 Call myJob
+2019-05-15 20:48:03  [ DefaultQuartzScheduler_QuartzSchedulerThread:28886 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:48:03  [ DefaultQuartzScheduler_QuartzSchedulerThread:28887 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:48:03  [ DefaultQuartzScheduler_Worker-4:28887 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:48:03  [ DefaultQuartzScheduler_Worker-4:28888 ] - [ INFO ]  Wed May 15 20:48:03 CST 2019 Call myJob
+2019-05-15 20:48:04  [ DefaultQuartzScheduler_QuartzSchedulerThread:29887 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:48:04  [ DefaultQuartzScheduler_QuartzSchedulerThread:29887 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:48:04  [ DefaultQuartzScheduler_Worker-5:29887 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:48:04  [ DefaultQuartzScheduler_Worker-5:29888 ] - [ INFO ]  Wed May 15 20:48:04 CST 2019 Call myJob
+2019-05-15 20:48:05  [ DefaultQuartzScheduler_QuartzSchedulerThread:30886 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:48:05  [ DefaultQuartzScheduler_QuartzSchedulerThread:30887 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:48:05  [ DefaultQuartzScheduler_Worker-6:30887 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:48:05  [ DefaultQuartzScheduler_Worker-6:30888 ] - [ INFO ]  Wed May 15 20:48:05 CST 2019 Call myJob
+2019-05-15 20:48:06  [ DefaultQuartzScheduler_QuartzSchedulerThread:31887 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:48:06  [ DefaultQuartzScheduler_QuartzSchedulerThread:31887 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:48:06  [ DefaultQuartzScheduler_Worker-7:31887 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:48:06  [ DefaultQuartzScheduler_Worker-7:31887 ] - [ INFO ]  Wed May 15 20:48:06 CST 2019 Call myJob
+2019-05-15 20:48:07  [ DefaultQuartzScheduler_QuartzSchedulerThread:32888 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:48:07  [ DefaultQuartzScheduler_QuartzSchedulerThread:32889 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:48:07  [ DefaultQuartzScheduler_Worker-8:32889 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:48:07  [ DefaultQuartzScheduler_Worker-8:32890 ] - [ INFO ]  Wed May 15 20:48:07 CST 2019 Call myJob
+2019-05-15 20:48:08  [ DefaultQuartzScheduler_QuartzSchedulerThread:33886 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:48:08  [ DefaultQuartzScheduler_QuartzSchedulerThread:33888 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:48:08  [ DefaultQuartzScheduler_Worker-9:33888 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:48:08  [ DefaultQuartzScheduler_Worker-9:33889 ] - [ INFO ]  Wed May 15 20:48:08 CST 2019 Call myJob
+2019-05-15 20:48:09  [ DefaultQuartzScheduler_QuartzSchedulerThread:34887 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:48:09  [ DefaultQuartzScheduler_QuartzSchedulerThread:34888 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:48:09  [ DefaultQuartzScheduler_Worker-10:34888 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:48:09  [ DefaultQuartzScheduler_Worker-10:34889 ] - [ INFO ]  Wed May 15 20:48:09 CST 2019 Call myJob
+2019-05-15 20:48:45  [ main:0 ] - [ INFO ]  Initializing....
+2019-05-15 20:48:45  [ main:69 ] - [ INFO ]  Using default implementation for ThreadExecutor
+2019-05-15 20:48:45  [ main:75 ] - [ INFO ]  Job execution threads will use class loader of thread: main
+2019-05-15 20:48:45  [ main:90 ] - [ INFO ]  Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-05-15 20:48:45  [ main:90 ] - [ INFO ]  Quartz Scheduler v.2.3.0-SNAPSHOT created.
+2019-05-15 20:48:45  [ main:91 ] - [ INFO ]  RAMJobStore initialized.
+2019-05-15 20:48:45  [ main:96 ] - [ INFO ]  Scheduler meta-data: Quartz Scheduler (v2.3.0-SNAPSHOT) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-05-15 20:48:45  [ main:96 ] - [ INFO ]  Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2019-05-15 20:48:45  [ main:96 ] - [ INFO ]  Quartz scheduler version: 2.3.0-SNAPSHOT
+2019-05-15 20:48:45  [ main:101 ] - [ INFO ]  Wed May 15 20:48:45 CST 2019 调度开始...
+2019-05-15 20:48:45  [ main:101 ] - [ INFO ]  Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2019-05-15 20:48:45  [ DefaultQuartzScheduler_QuartzSchedulerThread:103 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:49:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:14575 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:49:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:14583 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:49:00  [ DefaultQuartzScheduler_Worker-1:14585 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:49:00  [ DefaultQuartzScheduler_Worker-1:14586 ] - [ INFO ]  Wed May 15 20:49:00 CST 2019 调用Job处理
+2019-05-15 20:49:01  [ DefaultQuartzScheduler_QuartzSchedulerThread:15567 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:49:01  [ DefaultQuartzScheduler_QuartzSchedulerThread:15568 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:49:01  [ DefaultQuartzScheduler_Worker-2:15568 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:49:01  [ DefaultQuartzScheduler_Worker-2:15570 ] - [ INFO ]  Wed May 15 20:49:01 CST 2019 调用Job处理
+2019-05-15 20:49:02  [ DefaultQuartzScheduler_QuartzSchedulerThread:16568 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:49:02  [ DefaultQuartzScheduler_QuartzSchedulerThread:16569 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:49:02  [ DefaultQuartzScheduler_Worker-3:16570 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:49:02  [ DefaultQuartzScheduler_Worker-3:16571 ] - [ INFO ]  Wed May 15 20:49:02 CST 2019 调用Job处理
+2019-05-15 20:49:03  [ DefaultQuartzScheduler_QuartzSchedulerThread:17567 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:49:03  [ DefaultQuartzScheduler_QuartzSchedulerThread:17568 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:49:03  [ DefaultQuartzScheduler_Worker-4:17569 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:49:03  [ DefaultQuartzScheduler_Worker-4:17570 ] - [ INFO ]  Wed May 15 20:49:03 CST 2019 调用Job处理
+2019-05-15 20:49:04  [ DefaultQuartzScheduler_QuartzSchedulerThread:18568 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:49:04  [ DefaultQuartzScheduler_QuartzSchedulerThread:18569 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:49:04  [ DefaultQuartzScheduler_Worker-5:18569 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:49:04  [ DefaultQuartzScheduler_Worker-5:18571 ] - [ INFO ]  Wed May 15 20:49:04 CST 2019 调用Job处理
+2019-05-15 20:49:05  [ DefaultQuartzScheduler_QuartzSchedulerThread:19568 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:49:05  [ DefaultQuartzScheduler_QuartzSchedulerThread:19569 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:49:05  [ DefaultQuartzScheduler_Worker-6:19569 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:49:05  [ DefaultQuartzScheduler_Worker-6:19571 ] - [ INFO ]  Wed May 15 20:49:05 CST 2019 调用Job处理
+2019-05-15 20:49:06  [ DefaultQuartzScheduler_QuartzSchedulerThread:20567 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:49:06  [ DefaultQuartzScheduler_QuartzSchedulerThread:20568 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:49:06  [ DefaultQuartzScheduler_Worker-7:20569 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:49:06  [ DefaultQuartzScheduler_Worker-7:20570 ] - [ INFO ]  Wed May 15 20:49:06 CST 2019 调用Job处理
+2019-05-15 20:49:07  [ DefaultQuartzScheduler_QuartzSchedulerThread:21567 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:49:07  [ DefaultQuartzScheduler_QuartzSchedulerThread:21568 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:49:07  [ DefaultQuartzScheduler_Worker-8:21568 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:49:07  [ DefaultQuartzScheduler_Worker-8:21569 ] - [ INFO ]  Wed May 15 20:49:07 CST 2019 调用Job处理
+2019-05-15 20:49:08  [ DefaultQuartzScheduler_QuartzSchedulerThread:22568 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:49:08  [ DefaultQuartzScheduler_QuartzSchedulerThread:22569 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:49:08  [ DefaultQuartzScheduler_Worker-9:22569 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:49:08  [ DefaultQuartzScheduler_Worker-9:22570 ] - [ INFO ]  Wed May 15 20:49:08 CST 2019 调用Job处理
+2019-05-15 20:49:09  [ DefaultQuartzScheduler_QuartzSchedulerThread:23567 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:49:09  [ DefaultQuartzScheduler_QuartzSchedulerThread:23568 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:49:09  [ DefaultQuartzScheduler_Worker-10:23568 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:49:09  [ DefaultQuartzScheduler_Worker-10:23569 ] - [ INFO ]  Wed May 15 20:49:09 CST 2019 调用Job处理
+2019-05-15 20:49:36  [ DefaultQuartzScheduler_QuartzSchedulerThread:50925 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:49:59  [ DefaultQuartzScheduler_QuartzSchedulerThread:74413 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:50:09  [ main:0 ] - [ INFO ]  Initializing....
+2019-05-15 20:50:09  [ main:75 ] - [ INFO ]  Using default implementation for ThreadExecutor
+2019-05-15 20:50:09  [ main:80 ] - [ INFO ]  Job execution threads will use class loader of thread: main
+2019-05-15 20:50:09  [ main:93 ] - [ INFO ]  Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-05-15 20:50:09  [ main:93 ] - [ INFO ]  Quartz Scheduler v.2.3.0-SNAPSHOT created.
+2019-05-15 20:50:09  [ main:94 ] - [ INFO ]  RAMJobStore initialized.
+2019-05-15 20:50:09  [ main:95 ] - [ INFO ]  Scheduler meta-data: Quartz Scheduler (v2.3.0-SNAPSHOT) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-05-15 20:50:09  [ main:95 ] - [ INFO ]  Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2019-05-15 20:50:09  [ main:95 ] - [ INFO ]  Quartz scheduler version: 2.3.0-SNAPSHOT
+2019-05-15 20:50:09  [ main:99 ] - [ INFO ]  Wed May 15 20:50:09 CST 2019 调度开始...
+2019-05-15 20:50:09  [ main:99 ] - [ INFO ]  Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2019-05-15 20:50:09  [ DefaultQuartzScheduler_QuartzSchedulerThread:99 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:50:26  [ DefaultQuartzScheduler_QuartzSchedulerThread:101483 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:50:36  [ DefaultQuartzScheduler_QuartzSchedulerThread:27632 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:50:51  [ DefaultQuartzScheduler_QuartzSchedulerThread:126090 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:51:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:50692 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:51:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:50700 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:51:00  [ DefaultQuartzScheduler_Worker-1:50702 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:51:00  [ DefaultQuartzScheduler_Worker-1:50707 ] - [ INFO ]  Wed May 15 20:51:00 CST 2019 调用Job处理
+2019-05-15 20:51:10  [ DefaultQuartzScheduler_QuartzSchedulerThread:60684 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:51:10  [ DefaultQuartzScheduler_QuartzSchedulerThread:60685 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:51:10  [ DefaultQuartzScheduler_Worker-2:60685 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:51:10  [ DefaultQuartzScheduler_Worker-2:60687 ] - [ INFO ]  Wed May 15 20:51:10 CST 2019 调用Job处理
+2019-05-15 20:51:19  [ DefaultQuartzScheduler_QuartzSchedulerThread:154255 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:51:20  [ DefaultQuartzScheduler_QuartzSchedulerThread:70683 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:51:20  [ DefaultQuartzScheduler_QuartzSchedulerThread:70684 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:51:20  [ DefaultQuartzScheduler_Worker-3:70684 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:51:20  [ DefaultQuartzScheduler_Worker-3:70684 ] - [ INFO ]  Wed May 15 20:51:20 CST 2019 调用Job处理
+2019-05-15 20:51:30  [ DefaultQuartzScheduler_QuartzSchedulerThread:80684 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:51:30  [ DefaultQuartzScheduler_QuartzSchedulerThread:80685 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:51:30  [ DefaultQuartzScheduler_Worker-4:80685 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:51:30  [ DefaultQuartzScheduler_Worker-4:80700 ] - [ INFO ]  Wed May 15 20:51:30 CST 2019 调用Job处理
+2019-05-15 20:51:40  [ DefaultQuartzScheduler_QuartzSchedulerThread:90683 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:51:40  [ DefaultQuartzScheduler_QuartzSchedulerThread:90684 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:51:40  [ DefaultQuartzScheduler_Worker-5:90685 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:51:40  [ DefaultQuartzScheduler_Worker-5:90686 ] - [ INFO ]  Wed May 15 20:51:40 CST 2019 调用Job处理
+2019-05-15 20:51:45  [ DefaultQuartzScheduler_QuartzSchedulerThread:180239 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:51:50  [ DefaultQuartzScheduler_QuartzSchedulerThread:100683 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:51:50  [ DefaultQuartzScheduler_QuartzSchedulerThread:100684 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:51:50  [ DefaultQuartzScheduler_Worker-6:100684 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:51:50  [ DefaultQuartzScheduler_Worker-6:100685 ] - [ INFO ]  Wed May 15 20:51:50 CST 2019 调用Job处理
+2019-05-15 20:52:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:110684 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:52:00  [ DefaultQuartzScheduler_Worker-7:110686 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:52:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:110686 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:52:00  [ DefaultQuartzScheduler_Worker-7:110687 ] - [ INFO ]  Wed May 15 20:52:00 CST 2019 调用Job处理
+2019-05-15 20:52:10  [ DefaultQuartzScheduler_QuartzSchedulerThread:120683 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:52:10  [ DefaultQuartzScheduler_QuartzSchedulerThread:120684 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:52:10  [ DefaultQuartzScheduler_Worker-8:120685 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:52:10  [ DefaultQuartzScheduler_Worker-8:120686 ] - [ INFO ]  Wed May 15 20:52:10 CST 2019 调用Job处理
+2019-05-15 20:52:11  [ DefaultQuartzScheduler_QuartzSchedulerThread:205707 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:52:20  [ DefaultQuartzScheduler_QuartzSchedulerThread:130683 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:52:20  [ DefaultQuartzScheduler_Worker-9:130685 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:52:20  [ DefaultQuartzScheduler_QuartzSchedulerThread:130685 ] - [ DEBUG ]  batch acquisition of 1 triggers
+2019-05-15 20:52:20  [ DefaultQuartzScheduler_Worker-9:130686 ] - [ INFO ]  Wed May 15 20:52:20 CST 2019 调用Job处理
+2019-05-15 20:52:30  [ DefaultQuartzScheduler_QuartzSchedulerThread:140683 ] - [ DEBUG ]  Producing instance of Job 'jobGroup.myjob', class=com.myJob
+2019-05-15 20:52:30  [ DefaultQuartzScheduler_QuartzSchedulerThread:140684 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:52:30  [ DefaultQuartzScheduler_Worker-10:140684 ] - [ DEBUG ]  Calling execute on job jobGroup.myjob
+2019-05-15 20:52:30  [ DefaultQuartzScheduler_Worker-10:140685 ] - [ INFO ]  Wed May 15 20:52:30 CST 2019 调用Job处理
+2019-05-15 20:52:34  [ DefaultQuartzScheduler_QuartzSchedulerThread:229160 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:52:55  [ DefaultQuartzScheduler_QuartzSchedulerThread:166002 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:53:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:255502 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:53:20  [ DefaultQuartzScheduler_QuartzSchedulerThread:191386 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:53:30  [ DefaultQuartzScheduler_QuartzSchedulerThread:285089 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:53:47  [ DefaultQuartzScheduler_QuartzSchedulerThread:218577 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:53:56  [ DefaultQuartzScheduler_QuartzSchedulerThread:310728 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:54:15  [ DefaultQuartzScheduler_QuartzSchedulerThread:246526 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:54:23  [ DefaultQuartzScheduler_QuartzSchedulerThread:338308 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:54:44  [ DefaultQuartzScheduler_QuartzSchedulerThread:275349 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:54:51  [ DefaultQuartzScheduler_QuartzSchedulerThread:366317 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:55:11  [ DefaultQuartzScheduler_QuartzSchedulerThread:302625 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:55:20  [ DefaultQuartzScheduler_QuartzSchedulerThread:395264 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:55:39  [ DefaultQuartzScheduler_QuartzSchedulerThread:329979 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:55:50  [ DefaultQuartzScheduler_QuartzSchedulerThread:424908 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:56:03  [ DefaultQuartzScheduler_QuartzSchedulerThread:354110 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:56:17  [ DefaultQuartzScheduler_QuartzSchedulerThread:452222 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:56:28  [ DefaultQuartzScheduler_QuartzSchedulerThread:379675 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:56:44  [ DefaultQuartzScheduler_QuartzSchedulerThread:478773 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:56:58  [ DefaultQuartzScheduler_QuartzSchedulerThread:408919 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:57:09  [ DefaultQuartzScheduler_QuartzSchedulerThread:503685 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:57:23  [ DefaultQuartzScheduler_QuartzSchedulerThread:433773 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:57:34  [ DefaultQuartzScheduler_QuartzSchedulerThread:529174 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:57:50  [ DefaultQuartzScheduler_QuartzSchedulerThread:460696 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:58:00  [ DefaultQuartzScheduler_QuartzSchedulerThread:555201 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:58:14  [ DefaultQuartzScheduler_QuartzSchedulerThread:485672 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:58:25  [ DefaultQuartzScheduler_QuartzSchedulerThread:580231 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:58:38  [ DefaultQuartzScheduler_QuartzSchedulerThread:509558 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:58:48  [ DefaultQuartzScheduler_QuartzSchedulerThread:603493 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:59:06  [ DefaultQuartzScheduler_QuartzSchedulerThread:536794 ] - [ DEBUG ]  batch acquisition of 0 triggers
+2019-05-15 20:59:15  [ DefaultQuartzScheduler_QuartzSchedulerThread:630052 ] - [ DEBUG ]  batch acquisition of 0 triggers
